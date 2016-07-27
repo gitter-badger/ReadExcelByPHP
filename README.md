@@ -58,3 +58,30 @@
 `}`
 
 ?>
+
+`--------------------------------------------if Not any issue with this code-----------------please try this---------`
+
+
+ ` include 'excel_reader.php';`
+
+`// // include the class`
+
+`// // creates an object instance of the class, and read the excel file data`
+
+ `$excel = new PhpExcelReader;`
+
+` $excel->read('test.xls');`
+
+
+`$ksheet=$excel->sheets;`
+
+
+`foreach ($ksheet as $sheet) {`
+`echo "<pre>";`
+ 
+`print_r($sheet['cells']);`
+
+`}`
+`return $re .'</table>';`
+
+
