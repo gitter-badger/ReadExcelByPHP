@@ -59,7 +59,7 @@
 
 ?>
 
-`--------------------------------------------if Not any issue with this code-----------------please try this---------`
+`-------------------------------------------- any issue with this code-----------------please try this---------`
 
 
  ` include 'excel_reader.php';`
