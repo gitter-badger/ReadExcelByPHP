@@ -1,5 +1,7 @@
 # ReadExcelByPHP
 
+[![Join the chat at https://gitter.im/ReadExcelByPHP/Lobby](https://badges.gitter.im/ReadExcelByPHP/Lobby.svg)](https://gitter.im/ReadExcelByPHP/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `Read Excel File PHP` 
 
 `<?php`
